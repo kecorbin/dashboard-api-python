@@ -1,6 +1,6 @@
 # coding: utf-8
 from setuptools import setup, find_packages  # noqa: H301
-import io
+
 
 NAME = "meraki"
 VERSION = "0.34"
